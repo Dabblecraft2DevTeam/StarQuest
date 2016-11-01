@@ -1,0 +1,5 @@
+database:
+  hostname: localhost
+  username: minecraft
+  password: ''
+  database: ''
